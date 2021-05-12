@@ -1,4 +1,4 @@
-from RawDataMiners.RawDataMiner import  RawDataMiner
+from RawDataMiners import RawDataMiner
 from dotenv import load_dotenv
 import os
 import logging
