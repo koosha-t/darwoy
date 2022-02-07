@@ -64,3 +64,6 @@ docs/_build/
 #pickle files
 *.pkl
 resources/
+
+#html file (scrapy output)
+*.html

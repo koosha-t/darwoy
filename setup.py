@@ -23,7 +23,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=external_packages,
-    package_dir={"": "digger"},
-    packages=setuptools.find_packages(where="digger"),
+    package_dir={"": "src"},
+    packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
 )
