@@ -3,7 +3,6 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-
 with open("requirements.txt", "r") as req:
     external_packages = req.read()
 

@@ -3,6 +3,7 @@ Scrapy
 
 #Twitter API
 twitter
+tweepy
 
 #Configurations
 python-dotenv

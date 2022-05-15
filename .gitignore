@@ -58,8 +58,6 @@ docs/_build/
 #dotenv env variables
 .env
 
-#Azureml
-.azureml/
 
 #pickle files
 *.pkl
