@@ -53,3 +53,12 @@ print(user.screen_name)
 print(user.followers_count)
 for friend in user.friends():
    print(friend.screen_name)
+
+
+"""
+    Example 3: getting current trends.
+"""
+
+trends = api.available_trends()
+print("*********** Trends ***********")
+print(trends)
